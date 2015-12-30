@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jars/idb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/weka-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/sqljdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/tree_split-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/wlsvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/sqljdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/nlp-lang-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/libsvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/ansj_seg-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars/weka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

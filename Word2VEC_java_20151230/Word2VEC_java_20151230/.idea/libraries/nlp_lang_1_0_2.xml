@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="nlp-lang-1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/XuGuanghao_CaseClassifi_Sys_W4/Jars/nlp-lang-1.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/XuGuanghao_CaseClassifi_Sys_W4/Jars/tree_split-1.1.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" type="SOURCES" />
+  </library>
+</component>
